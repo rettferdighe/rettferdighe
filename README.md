@@ -1,0 +1,7 @@
+- 👋 Merhaba, ben @rettferdighe
+- 👀 Siber güvenlik ve yazılım geliştirme ile ilgileniyorum.
+- 🌱 Şu anda Python ve Termux üzerinde öğrenim yapıyorum.
+- 💞️ Eğitim videoları ve yazılım projeleri üzerinde iş birliği yapmak istiyorum.
+- 📫 Bana Instagram'dan @rettvirtuall veya YouTube'dan @retthack üzerinden ulaşabilirsiniz.
+- 😄 Zamanda kaliteli oyun ekipmanlarını incelemeyi seviyorum.
+- ⚡ Eğlenceli bir bilgi: Bir gün kendi yazılım şirketimi kurmayı hayal ediyorum!
